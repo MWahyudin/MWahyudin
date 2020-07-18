@@ -7,6 +7,6 @@ I’m a passionate full stack web developer based in Bekasi, Indonesia. I loving
 ![githubstats](https://github-readme-stats.vercel.app/api?username=MWahyudin&show_icons=true)
 
 ## Find me around the web 🌎:
-- lets be friends on <a href="https://www.facebook.com/MWahyu.Root">facebook</a> or <a href="https://www.twitter.com/mwahyudin__">mwahyudin__</a> 📹 ✍🏾
+- lets be friends on <a href="https://www.facebook.com/MWahyu.Root">facebook</a> or <a href="https://www.twitter.com/mwahyudin__">twitter</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/mwahyudin/">LinkedIn</a> 💼
 
