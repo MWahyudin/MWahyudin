@@ -1,5 +1,7 @@
 # Hi, I'm MWahyudin 👋🏾
 
+![Profile views](https://gpvc.arturio.dev/MWahyudin)
+
 <img src="https://raw.githubusercontent.com/MWahyudin/MWahyudin/master/header.png" alt="Web Developer">
 I’m a passionate full stack web developer based in Bekasi, Indonesia. I lovingly build the whole frontend and backend with multi-tier architecture. The frontend is an modern app single page application developed using vus js and the backend is developed using laravel framework <3.
 
